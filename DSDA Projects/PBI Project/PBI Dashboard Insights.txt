@@ -1,0 +1,50 @@
+~ Insights :
+A] Home page -
+	1. Total number of players in the top 5 leagues are 2642 players from the total of 96 Clubs and 89 different Countries across the world.
+	2. The total goal contribution value is 7867, which includes overall 4589 Goals & 3278 Assists.
+	3.  Number of fouls made in the top 5 leagues consists of 6796 yellow cards & 311 red cards.
+	4. Top 2 clubs, Barcelona(99) and Bayern Munich(96) has scored the most goals in the season by scoring more than 95+ goals.
+	5. Kylian Mbappe(31), Mohamed Salah(29), Robert Lewandowski(27), Harry Kane(26), Mateo Retegui(25), Alexander Isak(23) & Erling Haaland(22) these are the top 7 performers from all the leagues.
+	6. Sum of Expected Goals and Actual Goal Contributions are positively correlated with each other.
+	7. Five nations providing the most number of football players;
+		1) Spain (402) 
+		2) France (329)
+		3) Germany (223)
+		4) United Kingdom (214)
+		5) Italy (206)
+*Note- The ranks shown are from the internet based on various aspects like Popularity, Economical Status, Stadium Capacity & Tickets purchased and more aspects on individual levels.
+
+B] Premier league -
+	1. Youngest player- 15 (Harry Howell) & Oldest player 39 (Ashley Young).
+	2. No. of players (554) & no. of clubs (20)
+	3. Total Goals Scored (1068) & Total Assists (796)
+	4. Top 3 Goal Scorers are Mohamed Salah(29), Alexander Isak(23) & Erling Halland(22) scoring more than 20+ goals in the season.
+	5. DF(33.94%), MF(19.86%) & FW(15.34%) Positions own the highest percentage of total players respectively.
+
+C] Serie A league -
+	1. Youngest player- 16 (Francesco Camarda) & Oldest player 41 (Pepe Reina).
+	2. No. of players (570) & no. of clubs (20)
+	3. Total Goals Scored (885) & Total Assists (616)
+	4. Top 3 Goal Scorers are Mateo Retegui(25), Moise Kean(19) & Ademola Lookman(15) scoring more than 14+ goals in the season.
+	5. DF(34.04%), MF(23.51%) & FW(12.81%) Positions own the highest percentage of total players respectively.
+
+D] Bundesliga -
+	1. Youngest player- 16 (Viggo Gebel) & Oldest player 38 (Manuel Nuer).
+	2. No. of players (451) & no. of clubs (18)
+	3. Total Goals Scored (897) & Total Assists (646)
+	4. Top 3 Goal Scorers are Harry Kane(26), Patrick Schick(21) & Serhou Guirassy(21) scoring more than 20+ goals in the season.
+	5. DF(30.82%), MF(19.73%) & FW,MF(12.86%) Positions own the highest percentage of total players respectively.
+
+E] La Liga -
+	1. Youngest player- 16 (David Otorbi) & Oldest player 38 (Luka Modric).
+	2. No. of players (567) & no. of clubs (20)
+	3. Total Goals Scored (929) & Total Assists (654)
+	4. Top 3 Goal Scorers are Kylian Mbappe(31), Robert Lewandowski(27) & Ante Budimir(21) scoring more than 20+ goals in the season.
+	5. DF(30.16%), MF(20.99%) & FW(15.17%) Positions own the highest percentage of total players respectively.
+
+F] Ligue 1 -
+	1. Youngest player- 15 (Djylian N'Guessan) & Oldest player 39 (Dante).
+	2. No. of players (500) & no. of clubs (18)
+	3. Total Goals Scored (810) & Total Assists (566)
+	4. Top 3 Goal Scorers are Mason Greenwood(21), Ousmane Dembele(21) & Arnaud Kalimuendo(17) scoring more than 16+ goals in the season.
+	5. DF(31.2%), MF(18.8%) & FW(14%) Positions own the highest percentage of total players respectively.
